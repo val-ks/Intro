@@ -15,7 +15,7 @@
   
   - [DAG for daily table insertion](https://github.com/val-ks/DAG_daily_table_insertion)
   - [Recruitment Agency Database](https://github.com/val-ks/recruitment_agency_database)
-  - [AB-test](https://github.com/lprosh/junior-analyst-portfolio/tree/main/tableau)
+  - [AB-test](https://github.com/val-ks/AB-test)
 
 ### 👔 Work experience
 
@@ -27,8 +27,8 @@
 
 #### Stepik
 - [Basic Python](https://stepik.org/cert/1551586)
-- [SQL for data analisys with Gleb Mikhailov](https://stepik.org/course/116332)
--[Web development: HTML+CSS](https://stepik.org/cert/910729)
+- [SQL for data analisys with Gleb Mikhailov](https://stepik.org/cert/2067372)
+- [Web development: HTML+CSS](https://stepik.org/cert/910729)
 
 ### 💬 Contacts
 - Telegram: [@valeriya_kalashnikova](https://t.me/valeriya_kalashnikova)
