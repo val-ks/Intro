@@ -21,13 +21,13 @@
 
 | Job Position         | Company          | Department \ Division       | Work Period       |
 |:---------------------|:-----------------|:----------------------------|:------------------|
-| Trainee Data Analyst | EPAM Systems          | Data analytics Engineering | 03.2023 - present |
+| Trainee Data Analyst | EPAM Systems          | Data Analytics Engineering | 03.2023 - present |
 
 ### 📜 Certifications
 
 #### Stepik
 - [Basic Python](https://stepik.org/cert/1551586)
-- [SQL for data analisys with Gleb Mikhailov](https://stepik.org/cert/2067372)
+- [SQL for data analysis with Gleb Mikhailov](https://stepik.org/cert/2067372)
 - [Web development: HTML+CSS](https://stepik.org/cert/910729)
 
 ### 💬 Contacts
