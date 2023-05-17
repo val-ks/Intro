@@ -30,6 +30,9 @@
 - [SQL for data analysis with Gleb Mikhailov](https://stepik.org/cert/2067372)
 - [Web development: HTML+CSS](https://stepik.org/cert/910729)
 
+#### Udemy 
+- [The Complete 2022 Web Development Bootcamp] (https://www.udemy.com/certificate/UC-0a1ccb32-8475-4423-b499-4933f8eb35e1/)
+
 ### 💬 Contacts
 - Telegram: [@valeriya_kalashnikova](https://t.me/valeriya_kalashnikova)
 - E-mail: [kalashnikovavs1997@gmail.com](mailto:kalashnikovavs1997@gmail.com)
