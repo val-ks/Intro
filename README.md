@@ -1,5 +1,4 @@
 ### 👋 Hey there! My name is Valeriya. 
-#### 💻 I'm  Junior Data/Product Analyst and here is some information about me and my portfolio below.
 
 <!---->
 
