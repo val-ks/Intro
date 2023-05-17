@@ -8,6 +8,7 @@
 - Power BI, Tableau, Superset
 - Git, GitLab, Github
 - Jupyter Notebook
+- Airflow
 
 <!--### 👩🏻‍💻 Projects-->
 
