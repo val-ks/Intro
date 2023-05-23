@@ -14,9 +14,10 @@
 
 ### 📁 Junior Analyst Portfolio
   
-  - [DAG for daily table insertion](https://github.com/val-ks/DAG_daily_table_insertion)
+  - [Automated Daily Table Insertion](https://github.com/val-ks/DAG_daily_table_insertion)
   - [Recruitment Agency Database](https://github.com/val-ks/recruitment_agency_database)
   - [AB-test](https://github.com/val-ks/AB-test)
+  - [Automated Feed Report](https://github.com/val-ks/feed_report)
 
 ### 👔 Work experience
 
