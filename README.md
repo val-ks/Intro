@@ -4,7 +4,7 @@
 
 ### ⚒️Tech Stack
 - Python: NumPy, SciPy, Pandas, Seaborn, Matplotlib 
-- SQL: PostgreSQL, MySQL, ClickHouse
+- SQL: PostgreSQL, MySQL, ClickHouse, MS SQL
 - BI systems: Tableau, Superset, Power BI, Redash
 - Git, GitLab, Github
 - Google sheets, Excel
