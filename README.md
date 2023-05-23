@@ -10,6 +10,7 @@
 - Google sheets, Excel
 - Jupyter Notebook
 - Airflow ETL
+- Draw IO, DBeaver
 - HTML, CSS
 
 <!--### 👩🏻‍💻 Projects-->
