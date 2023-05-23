@@ -8,7 +8,7 @@ Here are the technologies and tools I work with:
 
 - Python: NumPy, SciPy, Pandas, Seaborn, Matplotlib 🐍
 - SQL: PostgreSQL, MySQL, ClickHouse, MS SQL 🗃️
-- BI Systems: Tableau, Superset, Power BI, Redash 📊
+- BI Systems: Tableau, Superset, Power BI, Redash 📈
 - Version Control: Git, GitLab, Github 🗂️
 - Spreadsheet Tools: Google Sheets, Excel 📝
 - Visualization Tools: Draw IO, DBeaver 📊
