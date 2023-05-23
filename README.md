@@ -1,4 +1,4 @@
-## 👋 Hey there! My name is Valeriya. 
+## 👋 Hey there! My name is Valeriya and I'm Junior Analyst.
 
 <!---->
 
