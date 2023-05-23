@@ -4,20 +4,22 @@
 
 ### ⚒️Tech Stack
 - Python: NumPy, SciPy, Pandas, Seaborn, Matplotlib 
-- SQL: DML (Subquery, JOIN, GROUP BY, Window Functions), DDL
-- Power BI, Tableau, Superset
+- SQL: PostgreSQL, MySQL, ClickHouse
+- BI systems: Tableau, Superset, Power BI, Redash
 - Git, GitLab, Github
+- Google sheets, Excel
 - Jupyter Notebook
-- Airflow
+- Airflow ETL
+- HTML, CSS
 
 <!--### 👩🏻‍💻 Projects-->
 
 ### 📁 Junior Analyst Portfolio
   
-  - [Automated Daily Table Insertion](https://github.com/val-ks/DAG_daily_table_insertion)
-  - [Recruitment Agency Database](https://github.com/val-ks/recruitment_agency_database)
-  - [AB-test Conduction](https://github.com/val-ks/AB-test)
-  - [Automated Feed Report](https://github.com/val-ks/feed_report)
+  - [Automated Daily Table Insertion](https://github.com/val-ks/DAG_daily_table_insertion) - Python, ClickHouse, Airflow
+  - [Recruitment Agency Database](https://github.com/val-ks/recruitment_agency_database) - DBeaver, PostgreSQL, Draw IO
+  - [AB-test Conduction](https://github.com/val-ks/AB-test) - Python, ClickHouse, Jupyter
+  - [Automated Feed Report](https://github.com/val-ks/feed_report) - Python, ClickHouse, Airflow
 
 ### 👔 Work experience
 
