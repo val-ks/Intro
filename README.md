@@ -1,7 +1,7 @@
 ## 👋 Hey there! My name is Valeriya and I'm Junior Analyst.
-
 <!---->
-
+### Let me tell you more about my skills and share my experience!
+<!---->
 ### ⚒️Tech Stack
 - Python: NumPy, SciPy, Pandas, Seaborn, Matplotlib 
 - SQL: PostgreSQL, MySQL, ClickHouse, MS SQL
