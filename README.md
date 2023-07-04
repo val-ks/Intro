@@ -1,4 +1,4 @@
-## 👋 Hey there! My name is Valeriya and I'm a Junior Analyst.
+## 👋 Hey there! My name is Valeriya and I'm a Junior Data Analyst.
 
 ### 💡 About Me
 I have a passion for data analysis and enjoy leveraging my skills to derive meaningful insights from data. I have experience working with various tools and technologies, and I'm always eager to expand my knowledge and learn new things.
@@ -27,7 +27,7 @@ Here are some of the projects I have worked on:
 ### 👔 Work Experience
 | Job Position         | Company          | Department / Division       | Work Period       |
 |----------------------|------------------|-----------------------------|-------------------|
-| Trainee Data Analyst | EPAM Systems     | Data Analytics Engineering | 2023 - Present |
+| Trainee | EPAM Systems     | Data Analytics Engineering | 2023 - Present |
 
 ### 📜 Certifications
 #### Stepik
