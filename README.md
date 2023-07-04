@@ -27,7 +27,7 @@ Here are some of the projects I have worked on:
 ### 👔 Work Experience
 | Job Position         | Company          | Department / Division       | Work Period       |
 |----------------------|------------------|-----------------------------|-------------------|
-| Trainee Data Analyst | EPAM Systems     | Data Analytics Engineering | 03.2023 - Present |
+| Trainee Data Analyst | EPAM Systems     | Data Analytics Engineering | 2023 - Present |
 
 ### 📜 Certifications
 #### Stepik
