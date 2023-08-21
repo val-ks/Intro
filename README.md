@@ -1,7 +1,7 @@
-## 👋 Hey there! My name is Valeriya and I'm a Junior Data Analyst.
+## 👋 Hey there! My name is Valeriya and I'm a Junior Data Analytics Engineer.
 
 ### 💡 About Me
-I have a passion for data analysis and enjoy leveraging my skills to derive meaningful insights from data. I have experience working with various tools and technologies, and I'm always eager to expand my knowledge and learn new things.
+I have a passion for data manipulation and enjoy leveraging my skills to derive meaningful insights from data. I have experience working with various tools and technologies, and I'm always eager to expand my knowledge and learn new things.
 
 ### ⚒️ Tech Stack
 Here are the technologies and tools I work with:
@@ -16,7 +16,7 @@ Here are the technologies and tools I work with:
 - Jupyter Notebook 📓
 - Airflow, ETL ☁️
 
-### 📁 Junior Analyst Portfolio
+### 📁 Portfolio
 Here are some of the projects I have worked on:
 
 - [Automated Daily Table Insertion](https://github.com/val-ks/DAG_daily_table_insertion): Developed a solution using Python, ClickHouse, and Airflow to automate daily table insertion.
