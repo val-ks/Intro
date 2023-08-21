@@ -30,6 +30,10 @@ Here are some of the projects I have worked on:
 | Trainee | EPAM Systems     | Data Analytics Engineering | 2023 - Present |
 
 ### 📜 Certifications
+
+#### EPAM Systems
+- [Completion of Data Analytics Engineering Program](https://certificates.epam.com/certificates/c7a291eb-6627-486f-a37e-51af9ccf31f0)
+
 #### Stepik
 - [Basic Python](https://stepik.org/cert/1551586)
 - [SQL for Data Analysis with Gleb Mikhailov](https://stepik.org/cert/2067372)
